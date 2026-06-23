@@ -6,7 +6,7 @@
     font-family: verdana, "dejavu sans", serif;
 }
 
-.odd.special
+.special
 {
     font-size: 24px;
 }
@@ -19,7 +19,6 @@
 
 #four
 {
-    font-size: 24px;
     font-weight: bold;
     background-color: #90ee90;
 }
